@@ -16,7 +16,7 @@
   </tr>
    <tr>
     <td>4</td>
-    <td><a href=" "> </a></td>
+    <td><a href="https://github.com/samayass/flask_portfolio/commit/5137c991478a9b30fad56416d4e578599976bbf7">Light Mode</a>, <a href="https://github.com/samayass/flask_portfolio/commit/081dfc219e0b9e6958baa4ff374502346675dc58">Changes to buttons</a>, <a href="https://github.com/samayass/flask_portfolio/commit/f7cbe8484511a39edc1ed1a7bf8e748e51e37400">Add images to buttons</a></td>
     <td><a href=" "> </a></td>
     <td><a href=" "> </a></td>
     <td><a href="https://docs.google.com/document/d/1Emu4jODR9shaOspdeJ25b1RAg4T31gxg3rE8UWDlCuc/edit">3.11,3.12,3.13</a></td>
