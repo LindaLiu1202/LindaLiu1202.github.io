@@ -2,8 +2,8 @@
 <table>
    <tr>
     <th>Week</th>
-    <th> </th>
-    <th> </th>
+    <th>Technicals</th>
+    <th>TPT</th>
     <th>Tech Talk</th>
     <th>College Board</th>
    </tr>
