@@ -41,6 +41,6 @@
     <td><a href=" "> </a></td>
     <td><a href=" "> </a>, <a href=""> </a></td>
     <td><a href="https://docs.google.com/document/d/1UyB1WZ3CGDCXZdZSDCqsZMm35ae9i4nZNadUYw78bgc/edit?usp=sharing
-"> </a>1.1-1.2</td>
+">1.1-1.2</a></td>
   </tr>
 </table>
