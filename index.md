@@ -20,21 +20,6 @@ layout: default
                 <li><a>Resources</a></li>
             </ul>
         </li>
-        <li><a>Things to do</a>          
-             <ul> 
-                <li><a>Activities</a></li>
-                <li><a>Parks</a></li>
-                <li><a>Shops</a></li>
-                <li><a>Events</a></li>
-            </ul>  
-        </li>
-        <li><a>Contacts</a>
-            <ul> 
-                <li><a>Map</a></li>
-                <li><a>Directions</a></li>
-            </ul>  
-        </li>
-        <li><a>News</a></li>
     </ul>
 </body>
 </html>
